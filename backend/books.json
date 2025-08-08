@@ -1,0 +1,70 @@
+[{
+    "title": "1984",
+    "author": "George Orwell",
+    "description": "A dystopian novel set in a totalitarian society under constant surveillance.",
+    "price": 15,
+    "genre": "Science Fiction",
+    "condition": "Used",
+    "edition": "2nd Edition",
+    "imageUrl": "https://images.app.goo.gl/uMmAa5C5zh1eAUsj8"
+},
+{
+    "title": "Sapiens: A Brief History of Humankind",
+    "author": "Yuval Noah Harari",
+    "description": "A groundbreaking narrative of human history, from the Stone Age to modern civilization.",
+    "price": 22,
+    "genre": "Non-Fiction",
+    "condition": "New",
+    "edition": "Updated Edition",
+    "imageUrl": "https://images.app.goo.gl/Vxg8rJx6Y8B7PYfP9"
+},
+{
+    "title": "The Lean Startup",
+    "author": "Eric Ries",
+    "description": "A guide to creating successful startups using lean methodology and rapid experimentation.",
+    "price": 18,
+    "genre": "Business",
+    "condition": "Good",
+    "edition": "1st Edition",
+    "imageUrl": "https://images.app.goo.gl/NZmEwXNNnWjuyT7bA"
+},
+{
+    "title": "A Brief History of Time",
+    "author": "Stephen Hawking",
+    "description": "An exploration of cosmology, black holes, and the nature of the universe by one of the greatest minds of our time.",
+    "price": 20,
+    "genre": "Science",
+    "condition": "Like New",
+    "edition": "Illustrated Edition",
+    "imageUrl": "https://images.app.goo.gl/qDXYmdPXsoRFFyAC9"
+},
+{
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "description": "A classic novel of manners, love, and social standing in 19th-century England.",
+    "price": 10,
+    "genre": "Classic Literature",
+    "condition": "Used - Acceptable",
+    "edition": "Penguin Classics",
+    "imageUrl": "https://images.app.goo.gl/fBv37jWDWmeQq9Nu9"
+},
+{
+    "title": "Becoming",
+    "author": "Michelle Obama",
+    "description": "A deeply personal memoir by the former First Lady of the United States, chronicling her life and experiences.",
+    "price": 25,
+    "genre": "Biography",
+    "condition": "New",
+    "edition": "1st Edition",
+    "imageUrl": "https://images.app.goo.gl/DuYtUpHSrAezxM3D6"
+},
+{
+    "title": "The Art of War",
+    "author": "Sun Tzu",
+    "description": "An ancient Chinese military treatise on strategy, tactics, and leadership still relevant today.",
+    "price": 9,
+    "genre": "Philosophy",
+    "condition": "Good",
+    "edition": "Pocket Edition",
+    "imageUrl": "https://images.app.goo.gl/ZfgrDCDwLj1WqfUx8"
+}]
