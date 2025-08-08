@@ -91,7 +91,22 @@ export default function Signin() {
                         </Avatar>
 
                         <Typography component="h1" variant="h5">
-                            Sign In
+                            Sign In<br /><br />
+                        </Typography>
+
+                        {/* Demo credentials */}
+                        <Typography
+                            variant="body2"
+                            color="text.secondary"
+                            sx={{
+                                mt: 1,
+                                fontStyle: "italic",
+                                textAlign: "center",
+                            }}
+                        >
+                            Demo Credentials: <br />
+                            <strong>Email:</strong> admin@test.com <br />
+                            <strong>Password:</strong> admin
                         </Typography>
 
                         <Box
@@ -104,9 +119,9 @@ export default function Signin() {
                                 container
                                 spacing={2}
                                 sx={{
-                                    display: 'grid',
-                                    gridTemplateColumns: '1fr',
-                                    gap: 2
+                                    display: "grid",
+                                    gridTemplateColumns: "1fr",
+                                    gap: 2,
                                 }}
                             >
                                 <Box>
