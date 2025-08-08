@@ -3,7 +3,7 @@ import { getToken } from '../utils/common';
 
 const instance = axios.create({
     // baseURL: 'http://localhost:4000'
-    baseURL: 'https://the-bookshop-backend.onrender.com'
+    baseURL: 'https://ebookshop-backend.onrender.com'
     
 });
 
